@@ -1,1 +1,1 @@
-# nltk-1 tutorial from coding maniac
+# nltk-1 tutorials, sentdex, coding maniac
